@@ -1,0 +1,14 @@
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\hettg\Documents\Programming\CSharp\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
